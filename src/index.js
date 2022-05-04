@@ -13,12 +13,3 @@ ReactDOM.render(
   rootElement
 )
 
-// import rubbishButton from './assets/icons/rubbish-bin-delete-button.png'
-// import Header from './Header.js'
-// import Nav from './Nav.js'
-// import Main from './Main.js'
-
-      {/* <Header/>
-      <Nav/>
-      <Main/> */}
-
