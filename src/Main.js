@@ -1,4 +1,4 @@
-import './styles/app.css'
+import './styles/email.css'
 
 import MainNav from './Main-Nav.js'
 import MainArticle from './Main-Article.js'
